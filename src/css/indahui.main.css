@@ -1,0 +1,46 @@
+/* 
+    Indah UI (Indah) Alpha 1.0
+
+    //--------------Indah Description--------------------//
+
+    Indah UI bukan hanya sebuah CSS Framework pada Umumnya, 
+    tapi adalah sebuah UI Kit untuk memudahkan para pengembang Web.
+
+    //--------------Indah Insprired By-------------------//
+
+    Indah UI Terinspirasi oleh Bootstrap dan TailwindCSS maka dari itu akan ada beberapa utilities yang sama dengan mereka.
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+@import url('./indahui.grid.css');
+@import url('./indahui.utils.css');
+@import url('./indahui.debug.css');
+/* Untuk Reset or Restyle TAG HTML secara langsung */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    position: relative;
+    display: flex;
+    font-family: "Poppins", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: lightblue;
+}

@@ -1,0 +1,33 @@
+/* Untuk Utilites CSS */
+@import url('utils/indahui.display.css');
+@import url('utils/indahui.fonts.css');
+@import url('utils/indahui.marpad.css');
+/* Shadow */
+.small-box-shadow {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.box-shadow {
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5);
+}
+.big-box-shadow {
+    box-shadow: 6px 6px 5px rgba(0, 0, 0, 0.5);
+}
+.text-shadow {
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5);
+}
+/* Positions */
+.position-relative {
+    position: relative;
+}
+.position-absolute {
+    position: absolute;
+}
+.position-fixed {
+    position: fixed;
+}
+.position-sticky {
+    position: sticky;
+}
+.position-static {
+    position: static;
+}

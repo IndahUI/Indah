@@ -1,0 +1,30 @@
+:root {
+    /* Fonts */
+    --font-primary : "Poppins", Helvetica, Arial, sans-serif;
+    --font-secondary : "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-mono: consolas;
+    /* Indah UI Color Pallete */
+    --primary-color : #8932F4;
+    --secondary-color : #e7e5e3;
+    --success-color : #38E54D;
+    --info-color : #87A2FB;
+    --danger-color : #FA7070;
+    --warning-color : #FDFF00;
+    /* Additional CSS Colors */
+    --white-color : white;
+    --black-color : black;
+    --green-color : green;
+    --brown-color : brown;
+    --yellow-color : yellow;
+    --orange-color : orange;
+    --pink-color : pink;
+    --grey-color : grey;
+    /* Blue from 100 to 800 */
+    /* Red from 100 to 800 */
+    /* Green from 100 to 800 */
+    /* Purple from 100 to 800 */
+    /* Orange from 100 to 800 */
+    /* Brown from 100 to 800 */
+    /* Black from 100 to 800 */
+    /* White from 100 to 800 */
+}
